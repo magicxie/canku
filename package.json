@@ -7,7 +7,7 @@
     "start": "node app"
   },
   "dependencies": {
-    "express": "4.15.2",
+    "express": "4.15.3",
     "ejs": "2.5.5",
     "mongodb": "1.2.x",
     "mongoskin": "0.5.0",
